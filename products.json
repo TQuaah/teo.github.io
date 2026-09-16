@@ -1,0 +1,1901 @@
+[
+  {
+    "product_group": "Tobinco Products",
+    "items": [
+      {
+        "no": 1,
+        "item": "Abitos Syringe & Needle",
+        "unit": "bxs",
+        "quantity": 24
+      },
+      {
+        "no": 2,
+        "item": "Aceclofenac 100 Tab",
+        "unit": "bxs",
+        "quantity": 80
+      },
+      {
+        "no": 3,
+        "item": "Adrenaline Injection BP",
+        "unit": "pcs",
+        "quantity": 200
+      },
+      {
+        "no": 4,
+        "item": "Albendazole Oral Susp",
+        "unit": "btls",
+        "quantity": 500
+      },
+      {
+        "no": 5,
+        "item": "Alvite Capsules",
+        "unit": "pkts",
+        "quantity": 120
+      },
+      {
+        "no": 6,
+        "item": "Amocef 1000 Injection",
+        "unit": "vials",
+        "quantity": 160
+      },
+      {
+        "no": 7,
+        "item": "Amorin Injection",
+        "unit": "pkts",
+        "quantity": 160
+      },
+      {
+        "no": 8,
+        "item": "Amovulin 228.5mg",
+        "unit": "btls",
+        "quantity": 100
+      },
+      {
+        "no": 9,
+        "item": "Amovulin 457mg",
+        "unit": "btls",
+        "quantity": 40
+      },
+      {
+        "no": 10,
+        "item": "Amovulin 625mg",
+        "unit": "pkts",
+        "quantity": 90
+      },
+      {
+        "no": 11,
+        "item": "Amovulin 600gm Injection",
+        "unit": "vials",
+        "quantity": 100
+      },
+      {
+        "no": 12,
+        "item": "Amovulin 1.2gm Injection",
+        "unit": "vials",
+        "quantity": 100
+      },
+      {
+        "no": 13,
+        "item": "Amurox 750gm Injection",
+        "unit": "vials",
+        "quantity": 160
+      },
+      {
+        "no": 14,
+        "item": "Artenate 120mg Injection",
+        "unit": "vials",
+        "quantity": 200
+      },
+      {
+        "no": 15,
+        "item": "Artenate 30mg Injection",
+        "unit": "vials",
+        "quantity": 200
+      },
+      {
+        "no": 16,
+        "item": "Artenate 60mg Injection",
+        "unit": "vials",
+        "quantity": 200
+      },
+      {
+        "no": 17,
+        "item": "Azirocin Suspension",
+        "unit": "btls",
+        "quantity": 72
+      },
+      {
+        "no": 18,
+        "item": "Basic Touch Gloves L/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 19,
+        "item": "Basic Touch Gloves M/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 20,
+        "item": "Basic Touch Gloves S/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 21,
+        "item": "Basic Touch Gloves Extra Small",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 22,
+        "item": "Bingold Gloves L/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 23,
+        "item": "Bingold Gloves M/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 24,
+        "item": "Blopen Cap",
+        "unit": "bxs",
+        "quantity": 60
+      },
+      {
+        "no": 25,
+        "item": "Blopen Gel",
+        "unit": "tbs",
+        "quantity": 300
+      },
+      {
+        "no": 26,
+        "item": "Chlo Ear Drops",
+        "unit": "btls",
+        "quantity": 500
+      },
+      {
+        "no": 27,
+        "item": "Chlo Eye Drops",
+        "unit": "btls",
+        "quantity": 500
+      },
+      {
+        "no": 28,
+        "item": "Ciprofloxacin Injection (200mg/100ml)",
+        "unit": "vials",
+        "quantity": 100
+      },
+      {
+        "no": 29,
+        "item": "Clotrimoxazole 200 pessary",
+        "unit": "pkts",
+        "quantity": 200
+      },
+      {
+        "no": 30,
+        "item": "Compact N",
+        "unit": "tub",
+        "quantity": 300
+      },
+      {
+        "no": 31,
+        "item": "Cotton Wool 50gms",
+        "unit": "rolls",
+        "quantity": 200
+      },
+      {
+        "no": 32,
+        "item": "Cotton Wool 100gms",
+        "unit": "rolls",
+        "quantity": 200
+      },
+      {
+        "no": 33,
+        "item": "Cotton Wool 100gms",
+        "unit": "rolls",
+        "quantity": 100
+      },
+      {
+        "no": 34,
+        "item": "Cotton Wool 200gms",
+        "unit": "rolls",
+        "quantity": 60
+      },
+      {
+        "no": 35,
+        "item": "Cotton Wool 250gms",
+        "unit": "rolls",
+        "quantity": 80
+      },
+      {
+        "no": 36,
+        "item": "Cotton Wool 500gms",
+        "unit": "rolls",
+        "quantity": 40
+      },
+      {
+        "no": 37,
+        "item": "Crepe Elastic Bandage (2')",
+        "unit": "pkts",
+        "quantity": 60
+      },
+      {
+        "no": 38,
+        "item": "Crepe Elastic Bandage (3')",
+        "unit": "pkts",
+        "quantity": 40
+      },
+      {
+        "no": 39,
+        "item": "Crepe Elastic Bandage (4')",
+        "unit": "pkts",
+        "quantity": 30
+      },
+      {
+        "no": 40,
+        "item": "Crepe Elastic Bandage (6')",
+        "unit": "pkts",
+        "quantity": 20
+      },
+      {
+        "no": 41,
+        "item": "Dexamethasone Injection",
+        "unit": "bxs",
+        "quantity": 40
+      },
+      {
+        "no": 42,
+        "item": "Dextrose 5% (Euro Head)",
+        "unit": "btls",
+        "quantity": 25
+      },
+      {
+        "no": 43,
+        "item": "Dextrose 10% (Euro Head)",
+        "unit": "btls",
+        "quantity": 25
+      },
+      {
+        "no": 44,
+        "item": "Dextrose Normal Saline (Euro Head)",
+        "unit": "btls",
+        "quantity": 25
+      },
+      {
+        "no": 45,
+        "item": "Dextrose Normal Saline (Nipple Head)",
+        "unit": "btls",
+        "quantity": 25
+      },
+      {
+        "no": 46,
+        "item": "Dicnac 100 Supp",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 47,
+        "item": "Dicnac Gel",
+        "unit": "tub",
+        "quantity": 360
+      },
+      {
+        "no": 48,
+        "item": "Dicnac Injection",
+        "unit": "bxs",
+        "quantity": 32
+      },
+      {
+        "no": 49,
+        "item": "Entramol 125 Supp",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 50,
+        "item": "Entramol 250 Supp",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 51,
+        "item": "Entramol Infusion",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 52,
+        "item": "Entrima",
+        "unit": "tbs",
+        "quantity": 300
+      },
+      {
+        "no": 53,
+        "item": "Envither 80 Injection",
+        "unit": "pkts",
+        "quantity": 120
+      },
+      {
+        "no": 54,
+        "item": "Enzole-V",
+        "unit": "pkts",
+        "quantity": 200
+      },
+      {
+        "no": 55,
+        "item": "Evinal Pessaries",
+        "unit": "pkts",
+        "quantity": 200
+      },
+      {
+        "no": 56,
+        "item": "Fabric Plaster",
+        "unit": "bxs",
+        "quantity": 100
+      },
+      {
+        "no": 57,
+        "item": "Fabrin",
+        "unit": "bxs",
+        "quantity": 40
+      },
+      {
+        "no": 58,
+        "item": "Fewash",
+        "unit": "btls",
+        "quantity": 120
+      },
+      {
+        "no": 59,
+        "item": "Folidyn (200*5) MP",
+        "unit": "pkts",
+        "quantity": 200
+      },
+      {
+        "no": 60,
+        "item": "Folidyn (200*20) HP",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 61,
+        "item": "Frusemide Injection",
+        "unit": "bxs",
+        "quantity": 200
+      },
+      {
+        "no": 62,
+        "item": "Gauze Bandage (1\") (4.8cm)",
+        "unit": "pkts",
+        "quantity": 200
+      },
+      {
+        "no": 63,
+        "item": "Gauze Bandage (2\") (6cm)",
+        "unit": "pkts",
+        "quantity": 160
+      },
+      {
+        "no": 64,
+        "item": "Gauze Bandage (3\"x5yds)",
+        "unit": "pkts",
+        "quantity": 100
+      },
+      {
+        "no": 65,
+        "item": "Gauze Bandage (3\") (8cm)",
+        "unit": "pkts",
+        "quantity": 120
+      },
+      {
+        "no": 66,
+        "item": "Gauze Bandage (3\"x5yds)",
+        "unit": "pkts",
+        "quantity": 100
+      },
+      {
+        "no": 67,
+        "item": "Gauze Bandage (4\") (10cm)",
+        "unit": "pkts",
+        "quantity": 100
+      },
+      {
+        "no": 68,
+        "item": "Gauze Bandage (4\"x5yds)",
+        "unit": "pkts",
+        "quantity": 100
+      },
+      {
+        "no": 69,
+        "item": "Gauze Bandage (6\"x5yds)",
+        "unit": "pkts",
+        "quantity": 100
+      },
+      {
+        "no": 70,
+        "item": "Gent I Drop",
+        "unit": "btls",
+        "quantity": 500
+      },
+      {
+        "no": 71,
+        "item": "Gentamicin Inj.",
+        "unit": "bxs",
+        "quantity": 24
+      },
+      {
+        "no": 72,
+        "item": "Giving Set",
+        "unit": "pkts",
+        "quantity": 20
+      },
+      {
+        "no": 73,
+        "item": "Gloves L/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 74,
+        "item": "Hyoscine Butylbromide 20mg/ml",
+        "unit": "bxs",
+        "quantity": 40
+      },
+      {
+        "no": 75,
+        "item": "Iyara Gloves M/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 76,
+        "item": "Iyara Gloves L/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 77,
+        "item": "Malaria Test Kit",
+        "unit": "bxs",
+        "quantity": 50
+      },
+      {
+        "no": 78,
+        "item": "Mepacid 40 Injection",
+        "unit": "pkts",
+        "quantity": 300
+      },
+      {
+        "no": 79,
+        "item": "Metronidazole Injection",
+        "unit": "vials",
+        "quantity": 100
+      },
+      {
+        "no": 80,
+        "item": "Nifin 20 R Tablet",
+        "unit": "pkts",
+        "quantity": 300
+      },
+      {
+        "no": 81,
+        "item": "Normal Saline 0.9% (Euro Head)",
+        "unit": "btls",
+        "quantity": 25
+      },
+      {
+        "no": 82,
+        "item": "Normal Saline 0.9% (Nipple Head)",
+        "unit": "btls",
+        "quantity": 25
+      },
+      {
+        "no": 83,
+        "item": "Omega 3 Plus Vito Caps",
+        "unit": "pkts",
+        "quantity": 96
+      },
+      {
+        "no": 84,
+        "item": "Oxytocin Injection",
+        "unit": "vials",
+        "quantity": 200
+      },
+      {
+        "no": 85,
+        "item": "Pregnancy Test Kit",
+        "unit": "bxs",
+        "quantity": 50
+      },
+      {
+        "no": 86,
+        "item": "Revit/Reno",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 87,
+        "item": "Ringers Lactate (Euro Head)",
+        "unit": "btls",
+        "quantity": 25
+      },
+      {
+        "no": 88,
+        "item": "Ringers Lactate (Nipple Head)",
+        "unit": "btls",
+        "quantity": 25
+      },
+      {
+        "no": 89,
+        "item": "Strobin L/S Lozenges",
+        "unit": "bxs",
+        "quantity": 18
+      },
+      {
+        "no": 90,
+        "item": "Strobin S/S Lozenges",
+        "unit": "bxs",
+        "quantity": 36
+      },
+      {
+        "no": 91,
+        "item": "Style Latex Black Gloves S/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 92,
+        "item": "Style Latex Black Gloves L/S",
+        "unit": "bxs",
+        "quantity": 10
+      },
+      {
+        "no": 93,
+        "item": "Tobcee Forte",
+        "unit": "con",
+        "quantity": 144
+      },
+      {
+        "no": 94,
+        "item": "Tobcee Tab",
+        "unit": "bxs",
+        "quantity": 24
+      },
+      {
+        "no": 95,
+        "item": "Tobin's Cod Liver Capsules",
+        "unit": "bxs",
+        "quantity": 120
+      },
+      {
+        "no": 96,
+        "item": "Toblis Jelly",
+        "unit": "pkts",
+        "quantity": 600
+      },
+      {
+        "no": 97,
+        "item": "Tobvital Capsules",
+        "unit": "pkts",
+        "quantity": 24
+      },
+      {
+        "no": 98,
+        "item": "Tranexamic Acid Injection BP",
+        "unit": "pkts",
+        "quantity": 200
+      },
+      {
+        "no": 99,
+        "item": "Typhoid Test Kit",
+        "unit": "bxs",
+        "quantity": 50
+      },
+      {
+        "no": 100,
+        "item": "Vitamin K Injection",
+        "unit": "vials",
+        "quantity": 200
+      },
+      {
+        "no": 101,
+        "item": "Vodoom 10 Suppositories",
+        "unit": "pkts",
+        "quantity": 400
+      },
+      {
+        "no": 102,
+        "item": "Vodoom 30 Suppositories",
+        "unit": "pkts",
+        "quantity": 400
+      },
+      {
+        "no": 103,
+        "item": "Wormee 4 Suspension",
+        "unit": "btls",
+        "quantity": 500
+      },
+      {
+        "no": 104,
+        "item": "Wormee 4 Tablet",
+        "unit": "bxs",
+        "quantity": 16
+      },
+      {
+        "no": 105,
+        "item": "Zinc Oxide Plaster 1",
+        "unit": "bxs",
+        "quantity": 30
+      },
+      {
+        "no": 106,
+        "item": "Zinc Oxide Plaster 2",
+        "unit": "bxs",
+        "quantity": 30
+      },
+      {
+        "no": 107,
+        "item": "Zinc Oxide Plaster 3",
+        "unit": "bxs",
+        "quantity": 30
+      },
+      {
+        "no": 108,
+        "item": "Zinc Oxide Plaster 4",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 109,
+        "item": "Zinvite Capsules",
+        "unit": "pkts",
+        "quantity": 150
+      }
+    ]
+  },
+  {
+    "product_group": "Entrance Products",
+    "items": [
+      {
+        "no": 1,
+        "item": "Albendazole 400 Tabs",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 2,
+        "item": "Albendazole Suspension",
+        "unit": "btls",
+        "quantity": 150
+      },
+      {
+        "no": 3,
+        "item": "Aluminium Hydroxide",
+        "unit": "bxs",
+        "quantity": 45
+      },
+      {
+        "no": 4,
+        "item": "Aluminium Hydroxide",
+        "unit": "bxs",
+        "quantity": 32
+      },
+      {
+        "no": 5,
+        "item": "Alvite Syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 6,
+        "item": "Alvite Caps",
+        "unit": "pkts",
+        "quantity": 150
+      },
+      {
+        "no": 7,
+        "item": "Amlocad 10mg",
+        "unit": "bwls",
+        "quantity": 45
+      },
+      {
+        "no": 8,
+        "item": "Amlocad 10mg New",
+        "unit": "pkts",
+        "quantity": 360
+      },
+      {
+        "no": 9,
+        "item": "Amlocad 5mg New",
+        "unit": "pkts",
+        "quantity": 360
+      },
+      {
+        "no": 10,
+        "item": "Amlocad 5mg New",
+        "unit": "pkts",
+        "quantity": 300
+      },
+      {
+        "no": 11,
+        "item": "Amoflux Susp",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 12,
+        "item": "Amoflux 500mg",
+        "unit": "bxs",
+        "quantity": 60
+      },
+      {
+        "no": 13,
+        "item": "Amoxicilline Tab (250)",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 14,
+        "item": "Amoxicilline Tab (500)",
+        "unit": "bxs",
+        "quantity": 18
+      },
+      {
+        "no": 15,
+        "item": "Amoxicilline Tab (500)",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 16,
+        "item": "Amoxicilline 125 Suspension",
+        "unit": "btls",
+        "quantity": 100
+      },
+      {
+        "no": 17,
+        "item": "Amurox 125 Suspension",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 18,
+        "item": "Amurox 250mg",
+        "unit": "pkts",
+        "quantity": 200
+      },
+      {
+        "no": 19,
+        "item": "Amurox 500mg",
+        "unit": "pkts",
+        "quantity": 200
+      },
+      {
+        "no": 20,
+        "item": "Ancigel O Suspension",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 21,
+        "item": "Ancigel Suspension",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 22,
+        "item": "Ancigel Tablets",
+        "unit": "bxs",
+        "quantity": 36
+      },
+      {
+        "no": 23,
+        "item": "Artemether & Lumfanterine (20*12)",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 24,
+        "item": "Artenate Ds Dry Powder",
+        "unit": "btls",
+        "quantity": 120
+      },
+      {
+        "no": 25,
+        "item": "Artenate DS Tablet",
+        "unit": "pkts",
+        "quantity": 600
+      },
+      {
+        "no": 26,
+        "item": "Atenolol 100mg Tab",
+        "unit": "pkts",
+        "quantity": 450
+      },
+      {
+        "no": 27,
+        "item": "Atenolol 50mg Tab",
+        "unit": "pkts",
+        "quantity": 450
+      },
+      {
+        "no": 28,
+        "item": "Azirocin Capsules Entrance",
+        "unit": "pkts",
+        "quantity": 360
+      },
+      {
+        "no": 29,
+        "item": "Blopen 100 Caps",
+        "unit": "bxs",
+        "quantity": 48
+      },
+      {
+        "no": 30,
+        "item": "Blopen 50 Caps",
+        "unit": "bxs",
+        "quantity": 60
+      },
+      {
+        "no": 31,
+        "item": "Blopen Cool Gel",
+        "unit": "tub",
+        "quantity": 360
+      },
+      {
+        "no": 32,
+        "item": "Blopen Hot Gel",
+        "unit": "tub",
+        "quantity": 360
+      },
+      {
+        "no": 33,
+        "item": "Blopen P",
+        "unit": "pkts",
+        "quantity": 360
+      },
+      {
+        "no": 34,
+        "item": "Blopen Gel",
+        "unit": "tub",
+        "quantity": 360
+      },
+      {
+        "no": 35,
+        "item": "Carbocisteine (2%)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 36,
+        "item": "Carbocisteine (5%)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 37,
+        "item": "Ciprofloxacin / Ciprotob Tabs",
+        "unit": "bxs",
+        "quantity": 72
+      },
+      {
+        "no": 38,
+        "item": "Ciprofloxacin Tabs HP (50*10)",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 39,
+        "item": "Ciprotob TZ",
+        "unit": "pkts",
+        "quantity": 300
+      },
+      {
+        "no": 40,
+        "item": "Ciprotob TZ",
+        "unit": "pkts",
+        "quantity": 320
+      },
+      {
+        "no": 41,
+        "item": "Co-Entramol Tab Container",
+        "unit": "pkts",
+        "quantity": 360
+      },
+      {
+        "no": 42,
+        "item": "Co-Entramol Tab Container",
+        "unit": "con",
+        "quantity": 45
+      },
+      {
+        "no": 43,
+        "item": "Coldrilif Caps",
+        "unit": "bxs",
+        "quantity": 80
+      },
+      {
+        "no": 44,
+        "item": "Coldrilif Syrup",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 45,
+        "item": "Combact N",
+        "unit": "tub",
+        "quantity": 360
+      },
+      {
+        "no": 46,
+        "item": "Conbact A",
+        "unit": "tub",
+        "quantity": 360
+      },
+      {
+        "no": 47,
+        "item": "Co-Trimoxazole Tab",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 48,
+        "item": "Co-Trimoxazole Susp (Jacket)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 49,
+        "item": "Co-Trimoxazole Tab (36*50*10)",
+        "unit": "bxs",
+        "quantity": 18
+      },
+      {
+        "no": 50,
+        "item": "Co-Trimoxazole Tab (15*50*10)",
+        "unit": "bxs",
+        "quantity": 45
+      },
+      {
+        "no": 51,
+        "item": "Dicnac 100 MP Tabs",
+        "unit": "bxs",
+        "quantity": 80
+      },
+      {
+        "no": 52,
+        "item": "Dicnac Gel Ent",
+        "unit": "tub",
+        "quantity": 360
+      },
+      {
+        "no": 53,
+        "item": "Dicnac-SR 75",
+        "unit": "pkts",
+        "quantity": 360
+      },
+      {
+        "no": 54,
+        "item": "Dicnac SR 75",
+        "unit": "pkts",
+        "quantity": 432
+      },
+      {
+        "no": 55,
+        "item": "Dicnac-SR 75 Container",
+        "unit": "bwl",
+        "quantity": 36
+      },
+      {
+        "no": 56,
+        "item": "Diclofenac 50",
+        "unit": "bxs",
+        "quantity": 100
+      },
+      {
+        "no": 57,
+        "item": "Doxycycline 100",
+        "unit": "bxs",
+        "quantity": 150
+      },
+      {
+        "no": 58,
+        "item": "Endem Caps",
+        "unit": "pkts",
+        "quantity": 150
+      },
+      {
+        "no": 59,
+        "item": "Endem Caps",
+        "unit": "pkts",
+        "quantity": 210
+      },
+      {
+        "no": 60,
+        "item": "Emrin Cream",
+        "unit": "tub",
+        "quantity": 360
+      },
+      {
+        "no": 61,
+        "item": "Entracold",
+        "unit": "con",
+        "quantity": 45
+      },
+      {
+        "no": 62,
+        "item": "Entracin 150mg",
+        "unit": "bxs",
+        "quantity": 100
+      },
+      {
+        "no": 63,
+        "item": "Entracin 300mg",
+        "unit": "bxs",
+        "quantity": 100
+      },
+      {
+        "no": 64,
+        "item": "Entradol 50mg Caps",
+        "unit": "bxs",
+        "quantity": 72
+      },
+      {
+        "no": 65,
+        "item": "Entradol 50mg Caps",
+        "unit": "pkts",
+        "quantity": 120
+      },
+      {
+        "no": 66,
+        "item": "Entramol 500mg HP (60*10)",
+        "unit": "bxs",
+        "quantity": 60
+      },
+      {
+        "no": 67,
+        "item": "Entramol 500mg MP (12*30)",
+        "unit": "pkts",
+        "quantity": 675
+      },
+      {
+        "no": 68,
+        "item": "Entramol Extra",
+        "unit": "pkts",
+        "quantity": 420
+      },
+      {
+        "no": 69,
+        "item": "Entramol Plus",
+        "unit": "pkts",
+        "quantity": 420
+      },
+      {
+        "no": 70,
+        "item": "Entramol Tab 500 MP (Plastic Container)",
+        "unit": "bwl",
+        "quantity": 45
+      },
+      {
+        "no": 71,
+        "item": "Entramol Tab 500 MP (Plastic Container)",
+        "unit": "bwl",
+        "quantity": 40
+      },
+      {
+        "no": 72,
+        "item": "Entramol Plus (Plastic Container)",
+        "unit": "bwl",
+        "quantity": 45
+      },
+      {
+        "no": 73,
+        "item": "Entramol Extra (Plastic Container)",
+        "unit": "bwl",
+        "quantity": 42
+      },
+      {
+        "no": 74,
+        "item": "Entramol D (Plastic Container)",
+        "unit": "bwl",
+        "quantity": 42
+      },
+      {
+        "no": 75,
+        "item": "Entramol D (Plastic Container)",
+        "unit": "bwls",
+        "quantity": 45
+      },
+      {
+        "no": 76,
+        "item": "Entramol D",
+        "unit": "pkts",
+        "quantity": 675
+      },
+      {
+        "no": 77,
+        "item": "Entrance Antacid Syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 78,
+        "item": "Entralyn Baby",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 79,
+        "item": "Entralyn Cough Syrup",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 80,
+        "item": "Entralyn Cough Syrup",
+        "unit": "btls",
+        "quantity": 70
+      },
+      {
+        "no": 81,
+        "item": "Entralyn Plus Cough Syrup",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 82,
+        "item": "Entralyn Plus Cough Syrup",
+        "unit": "btls",
+        "quantity": 70
+      },
+      {
+        "no": 83,
+        "item": "Entramol 6+ Suspension",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 84,
+        "item": "Entramol Infant Suspension",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 85,
+        "item": "Enpain Tabs",
+        "unit": "bxs",
+        "quantity": 36
+      },
+      {
+        "no": 86,
+        "item": "Enpain Plus",
+        "unit": "bxs",
+        "quantity": 36
+      },
+      {
+        "no": 87,
+        "item": "Entrance Liver Salt (Plain)",
+        "unit": "bxs",
+        "quantity": 105
+      },
+      {
+        "no": 88,
+        "item": "Entrance Liver Salt (Lemon)",
+        "unit": "bxs",
+        "quantity": 105
+      },
+      {
+        "no": 89,
+        "item": "Entrance Liver Salt (Orange)",
+        "unit": "bxs",
+        "quantity": 105
+      },
+      {
+        "no": 90,
+        "item": "Emrin 2% Cream",
+        "unit": "bxs",
+        "quantity": 105
+      },
+      {
+        "no": 91,
+        "item": "Entrima 1%",
+        "unit": "tbs",
+        "quantity": 360
+      },
+      {
+        "no": 92,
+        "item": "Entrima 2%",
+        "unit": "tbs",
+        "quantity": 360
+      },
+      {
+        "no": 93,
+        "item": "Enrash Cream",
+        "unit": "tbs",
+        "quantity": 360
+      },
+      {
+        "no": 94,
+        "item": "Exicam 20",
+        "unit": "bxs",
+        "quantity": 150
+      },
+      {
+        "no": 95,
+        "item": "Fabrin",
+        "unit": "bxs",
+        "quantity": 36
+      },
+      {
+        "no": 96,
+        "item": "Fluza 150 Caps",
+        "unit": "pkts",
+        "quantity": 1000
+      },
+      {
+        "no": 97,
+        "item": "Foligrow Caps",
+        "unit": "pkts",
+        "quantity": 150
+      },
+      {
+        "no": 98,
+        "item": "Foligrow Junior Tonic",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 99,
+        "item": "Foligrow Plus Adult Syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 100,
+        "item": "Foligrow Syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 101,
+        "item": "Funbact 30gm Ent",
+        "unit": "tbs",
+        "quantity": 360
+      },
+      {
+        "no": 102,
+        "item": "Frumax Gel",
+        "unit": "tbs",
+        "quantity": 360
+      },
+      {
+        "no": 103,
+        "item": "Glibenc (150)",
+        "unit": "pkts",
+        "quantity": 150
+      },
+      {
+        "no": 104,
+        "item": "Griseofulvin 125mg",
+        "unit": "bxs",
+        "quantity": 100
+      },
+      {
+        "no": 105,
+        "item": "Griseofulvin 500mg",
+        "unit": "bxs",
+        "quantity": 150
+      },
+      {
+        "no": 106,
+        "item": "Griseofulvin 500mg",
+        "unit": "bxs",
+        "quantity": 90
+      },
+      {
+        "no": 107,
+        "item": "Gudapet Syrup Entrance",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 108,
+        "item": "Gudapet Caps Entrance",
+        "unit": "pkts",
+        "quantity": 240
+      },
+      {
+        "no": 109,
+        "item": "Hitman Dotted Condom",
+        "unit": "bxs",
+        "quantity": 18
+      },
+      {
+        "no": 110,
+        "item": "Hydroxychloroquine",
+        "unit": "bxs",
+        "quantity": 360
+      },
+      {
+        "no": 111,
+        "item": "Ibudol Plus",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 112,
+        "item": "Ibuprofen Tab",
+        "unit": "bxs",
+        "quantity": 30
+      },
+      {
+        "no": 113,
+        "item": "Iburex Caps",
+        "unit": "pkts",
+        "quantity": 400
+      },
+      {
+        "no": 114,
+        "item": "Iburex Caps",
+        "unit": "bwls",
+        "quantity": 36
+      },
+      {
+        "no": 115,
+        "item": "Jeditone Syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 116,
+        "item": "Kofof Adult Syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 117,
+        "item": "Kofof Baby",
+        "unit": "btls",
+        "quantity": 40
+      },
+      {
+        "no": 118,
+        "item": "Kofof Baby",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 119,
+        "item": "Kofof Child Syrup (Expectorant)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 120,
+        "item": "Kofof Child Syrup (Suppressant)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 121,
+        "item": "Kofof Family Syrup 150ml",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 122,
+        "item": "Kofof Family Syrup 100ml",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 123,
+        "item": "Lisinopril 5mg",
+        "unit": "pkts",
+        "quantity": 624
+      },
+      {
+        "no": 124,
+        "item": "Lisinopril 10mg",
+        "unit": "pkts",
+        "quantity": 624
+      },
+      {
+        "no": 125,
+        "item": "Lofnac Gel",
+        "unit": "tbs",
+        "quantity": 360
+      },
+      {
+        "no": 126,
+        "item": "Lufart Dispersible",
+        "unit": "bxs",
+        "quantity": 90
+      },
+      {
+        "no": 127,
+        "item": "Lufart DS",
+        "unit": "pkts",
+        "quantity": 600
+      },
+      {
+        "no": 128,
+        "item": "Lufart Dry Powder Suspension",
+        "unit": "btls",
+        "quantity": 200
+      },
+      {
+        "no": 129,
+        "item": "Lufart Forte",
+        "unit": "pkts",
+        "quantity": 720
+      },
+      {
+        "no": 130,
+        "item": "Lufart Tab",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 131,
+        "item": "Lyten Forte (Secnidazole)",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 132,
+        "item": "Mepacid",
+        "unit": "pkts",
+        "quantity": 240
+      },
+      {
+        "no": 133,
+        "item": "Metformin",
+        "unit": "bxs",
+        "quantity": 100
+      },
+      {
+        "no": 134,
+        "item": "Metronidazole Suspension (Jacket)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 135,
+        "item": "Metronidazole 250gm Tab",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 136,
+        "item": "Metronidazole 500gm Tab",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 137,
+        "item": "Mizin Cream",
+        "unit": "tbs",
+        "quantity": 360
+      },
+      {
+        "no": 138,
+        "item": "Mucotin Adult 5%",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 139,
+        "item": "Mucotin Child 2%",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 140,
+        "item": "Neuromin Plus",
+        "unit": "pkts",
+        "quantity": 230
+      },
+      {
+        "no": 141,
+        "item": "Neuromin Plus",
+        "unit": "pkts",
+        "quantity": 300
+      },
+      {
+        "no": 142,
+        "item": "Neuromin Plus Syrup",
+        "unit": "btls",
+        "quantity": 50
+      },
+      {
+        "no": 143,
+        "item": "ORS (Plain)",
+        "unit": "bxs",
+        "quantity": 45
+      },
+      {
+        "no": 144,
+        "item": "ORS (Plain)",
+        "unit": "bxs",
+        "quantity": 50
+      },
+      {
+        "no": 145,
+        "item": "ORS (Orange)",
+        "unit": "bxs",
+        "quantity": 45
+      },
+      {
+        "no": 146,
+        "item": "ORS (Orange)",
+        "unit": "bxs",
+        "quantity": 50
+      },
+      {
+        "no": 147,
+        "item": "ORS (Plain)",
+        "unit": "bxs",
+        "quantity": 36
+      },
+      {
+        "no": 148,
+        "item": "Ozin 10 Susp. 30mls",
+        "unit": "btls",
+        "quantity": 150
+      },
+      {
+        "no": 149,
+        "item": "Ozin 10 Tab",
+        "unit": "bxs",
+        "quantity": 300
+      },
+      {
+        "no": 150,
+        "item": "Ozin 10 Tab",
+        "unit": "bxs",
+        "quantity": 330
+      },
+      {
+        "no": 151,
+        "item": "Paracetamol Syrup (100mls) -Jacket Plastic cover",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 152,
+        "item": "Paracetamol Tabs",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 153,
+        "item": "Revit Tablet",
+        "unit": "pkts",
+        "quantity": 600
+      },
+      {
+        "no": 154,
+        "item": "SP-Dox",
+        "unit": "pkts",
+        "quantity": 1600
+      },
+      {
+        "no": 155,
+        "item": "Tobcee Forte Syrup",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 156,
+        "item": "Tobcee Syrup",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 157,
+        "item": "Tobin's Baby Care Gripe",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 158,
+        "item": "Toblis 50",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 159,
+        "item": "Toblis 100",
+        "unit": "pkts",
+        "quantity": 480
+      },
+      {
+        "no": 160,
+        "item": "Tobufen Syrup (100mls)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 161,
+        "item": "Tobufen Syrup (60mls)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 162,
+        "item": "Tobufen Tabs 400mg",
+        "unit": "bxs",
+        "quantity": 30
+      },
+      {
+        "no": 163,
+        "item": "Tobvital Tablets",
+        "unit": "pkts",
+        "quantity": 600
+      },
+      {
+        "no": 164,
+        "item": "Tobvital Syrup",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 165,
+        "item": "Tobvital Drop",
+        "unit": "btls",
+        "quantity": 100
+      },
+      {
+        "no": 166,
+        "item": "Vital X syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 167,
+        "item": "Vitamin C Tabs",
+        "unit": "bxs",
+        "quantity": 36
+      },
+      {
+        "no": 168,
+        "item": "Wormee 4 Suspension",
+        "unit": "btls",
+        "quantity": 144
+      },
+      {
+        "no": 169,
+        "item": "Vedil 6.5mg",
+        "unit": "pkts",
+        "quantity": 320
+      },
+      {
+        "no": 170,
+        "item": "Vedil 12.5mg",
+        "unit": "pkts",
+        "quantity": 320
+      },
+      {
+        "no": 171,
+        "item": "Vedil 25mg",
+        "unit": "pkts",
+        "quantity": 320
+      },
+      {
+        "no": 172,
+        "item": "X'feron Caps",
+        "unit": "bwl",
+        "quantity": 36
+      },
+      {
+        "no": 173,
+        "item": "X'feron Caps",
+        "unit": "pkts",
+        "quantity": 300
+      },
+      {
+        "no": 174,
+        "item": "X'feron 150ml Syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 175,
+        "item": "X'feron 200ml Syrup",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 176,
+        "item": "X'flux Caps (250mg)",
+        "unit": "btls",
+        "quantity": 30
+      },
+      {
+        "no": 177,
+        "item": "X'flux Caps (250mg) (10*10)",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 178,
+        "item": "X'flux Caps (500mg) 28\"",
+        "unit": "bxs",
+        "quantity": 125
+      },
+      {
+        "no": 179,
+        "item": "X'flux Suspension",
+        "unit": "pkts",
+        "quantity": 600
+      },
+      {
+        "no": 180,
+        "item": "X'mox Caps (250mg)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 181,
+        "item": "X'mox Caps 500mg",
+        "unit": "bxs",
+        "quantity": 20
+      },
+      {
+        "no": 182,
+        "item": "X'mox Caps 500mg (20*10)",
+        "unit": "bxs",
+        "quantity": 60
+      },
+      {
+        "no": 183,
+        "item": "X'mox Caps (500mg)(21's)",
+        "unit": "bxs",
+        "quantity": 60
+      },
+      {
+        "no": 184,
+        "item": "X'mox Caps (500mg) HP",
+        "unit": "bxs",
+        "quantity": 60
+      },
+      {
+        "no": 185,
+        "item": "X'mox Syrup 125mg/5mls (100mls)",
+        "unit": "bxs",
+        "quantity": 60
+      },
+      {
+        "no": 186,
+        "item": "X'trim Syrup (100mls)",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 187,
+        "item": "X'zole Syrup 200mg/5mls / Metronidazole Inj.",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 188,
+        "item": "X'Zole F Syrup 60ml",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 189,
+        "item": "X'Zole F Syrup 100ml",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 190,
+        "item": "X'zole Tabs 200mg",
+        "unit": "bxs",
+        "quantity": 32
+      },
+      {
+        "no": 191,
+        "item": "X'zole Tabs 400mg",
+        "unit": "bxs",
+        "quantity": 45
+      },
+      {
+        "no": 192,
+        "item": "Zinvite Caps",
+        "unit": "bxs",
+        "quantity": 150
+      },
+      {
+        "no": 193,
+        "item": "Zinvite Syrup",
+        "unit": "pkts",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "product_group": "Cosmetics",
+    "items": [
+      {
+        "no": 1,
+        "item": "Entrance Hydrogen Peroxide",
+        "unit": "btls",
+        "quantity": 24
+      },
+      {
+        "no": 2,
+        "item": "Omal Hand Sanitizer 125ml",
+        "unit": "btls",
+        "quantity": 80
+      },
+      {
+        "no": 3,
+        "item": "Omal Hand Sanitizer 250ml",
+        "unit": "btls",
+        "quantity": 60
+      },
+      {
+        "no": 4,
+        "item": "Omal Hand Sanitizer 750ml",
+        "unit": "btls",
+        "quantity": 20
+      },
+      {
+        "no": 5,
+        "item": "Omal Hand Sanitizer 750ml",
+        "unit": "btls",
+        "quantity": 24
+      },
+      {
+        "no": 6,
+        "item": "Omal Hand Sanitizer 2.5 litres",
+        "unit": "gals",
+        "quantity": 13
+      },
+      {
+        "no": 7,
+        "item": "Omal Hand Sanitizer 5 litres",
+        "unit": "gals",
+        "quantity": 8
+      },
+      {
+        "no": 8,
+        "item": "Omal Liquid Soap (5 litre)",
+        "unit": "gals",
+        "quantity": 4
+      },
+      {
+        "no": 9,
+        "item": "Omal Antiseptic (5 litre)",
+        "unit": "gals",
+        "quantity": 4
+      },
+      {
+        "no": 10,
+        "item": "Rubbing Alcohol 500ml",
+        "unit": "btls",
+        "quantity": 24
+      },
+      {
+        "no": 11,
+        "item": "Infrared Thermometer",
+        "unit": "bxs",
+        "quantity": 50
+      },
+      {
+        "no": 12,
+        "item": "Automatic Dispenser",
+        "unit": "bxs",
+        "quantity": 18
+      }
+    ]
+  }
+]
